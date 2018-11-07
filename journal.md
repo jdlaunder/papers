@@ -1,8 +1,10 @@
 # Title
+Simulations of
 Biomass burning aerosol over W. Africa
 
 # Author
 Jake D. Launder
+John Smith
 
 # Introduction
 Haywood et al. (1999) made some great measurements of BBOA over the Sahara.
