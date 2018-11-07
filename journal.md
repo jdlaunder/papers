@@ -20,5 +20,8 @@ We used an AMS (Allan et al., 1999) to measure particle mass and chemical compos
 # Results
 We observed particle growth through coagulation, and report the changing chemical composition with age in the atmosphere.
 
+# Figures
+Here are some cool figures.
+
 # Conclusions
 We made some groundbreaking discovery, aren't we great?! There's more to do, give us more funding!
