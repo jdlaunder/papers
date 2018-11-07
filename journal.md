@@ -3,8 +3,8 @@ Model-measurement comparison of
 Biomass burning aerosol over W. Africa
 
 # Author
-Jake D. Launder
-John Smith
+Jake D. Launder, The University of Manchester
+John Smith, University of Elsewhere
 
 # Abstract
 We write this last because it's difficult to do.
