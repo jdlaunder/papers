@@ -25,3 +25,6 @@ Here are some cool figures.
 
 # Conclusions
 We made some groundbreaking discovery, aren't we great?! There's more to do, give us more funding!
+
+# Acknowledgements
+We would like to thank the EU funding body for their support. RIP :( (?)
